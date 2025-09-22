@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BMI Calculator (Python)
 
 This project contains two interfaces for calculating and tracking Body Mass Index (BMI):
@@ -43,3 +44,6 @@ This project contains two interfaces for calculating and tracking Body Mass Inde
 - You can extend categories, export history to CSV, or add user profiles for multiple users.
 - For natural-language input parsing (e.g., "I weigh 70 kg"), consider adding simple parsing logic or a small NLP model.
 
+=======
+# BMI.CALCULATOR
+>>>>>>> 481f1a27e07d28c512a304220a9fe1be9093e260
